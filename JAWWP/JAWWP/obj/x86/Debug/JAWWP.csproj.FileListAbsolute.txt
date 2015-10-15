@@ -1,0 +1,15 @@
+E:\JAWWP\JAWWP\JAWWP\bin\x86\Debug\JAWWP.exe.config
+E:\JAWWP\JAWWP\JAWWP\bin\x86\Debug\JAWWP.exe
+E:\JAWWP\JAWWP\JAWWP\bin\x86\Debug\JAWWP.pdb
+E:\JAWWP\JAWWP\JAWWP\bin\x86\Debug\CefSharp.Core.dll
+E:\JAWWP\JAWWP\JAWWP\bin\x86\Debug\CefSharp.dll
+E:\JAWWP\JAWWP\JAWWP\bin\x86\Debug\CefSharp.WinForms.dll
+E:\JAWWP\JAWWP\JAWWP\bin\x86\Debug\CefSharp.WinForms.xml
+E:\JAWWP\JAWWP\JAWWP\bin\x86\Debug\CefSharp.xml
+E:\JAWWP\JAWWP\JAWWP\bin\x86\Debug\CefSharp.Core.xml
+E:\JAWWP\JAWWP\JAWWP\obj\x86\Debug\JAWWP.MainForm.resources
+E:\JAWWP\JAWWP\JAWWP\obj\x86\Debug\JAWWP.Properties.Resources.resources
+E:\JAWWP\JAWWP\JAWWP\obj\x86\Debug\JAWWP.csproj.GenerateResource.Cache
+E:\JAWWP\JAWWP\JAWWP\obj\x86\Debug\JAWWP.exe
+E:\JAWWP\JAWWP\JAWWP\obj\x86\Debug\JAWWP.pdb
+E:\JAWWP\JAWWP\JAWWP\obj\x86\Debug\JAWWP.csprojResolveAssemblyReference.cache

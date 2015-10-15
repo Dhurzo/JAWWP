@@ -1,0 +1,9 @@
+E:\JAWWP\JAWWP\JAWWP\bin\Debug\JAWWP.exe.config
+E:\JAWWP\JAWWP\JAWWP\bin\Debug\JAWWP.exe
+E:\JAWWP\JAWWP\JAWWP\bin\Debug\JAWWP.pdb
+E:\JAWWP\JAWWP\JAWWP\obj\Debug\JAWWP.MainForm.resources
+E:\JAWWP\JAWWP\JAWWP\obj\Debug\JAWWP.Properties.Resources.resources
+E:\JAWWP\JAWWP\JAWWP\obj\Debug\JAWWP.csproj.GenerateResource.Cache
+E:\JAWWP\JAWWP\JAWWP\obj\Debug\JAWWP.exe
+E:\JAWWP\JAWWP\JAWWP\obj\Debug\JAWWP.pdb
+E:\JAWWP\JAWWP\JAWWP\obj\Debug\JAWWP.csprojResolveAssemblyReference.cache
