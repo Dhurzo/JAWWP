@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.IO;
 
 namespace JAWWP
 {
@@ -32,7 +33,7 @@ namespace JAWWP
         /// <returns></returns>
         bool IContextMenuHandler.OnContextMenuCommand(IWebBrowser browserControl, IBrowser browser, IFrame frame, IContextMenuParams parameters, CefMenuCommand commandId, CefEventFlags eventFlags)
         {
-            return false;
+            return true;
         }
         /// <summary>
         /// Do nothing
@@ -44,6 +45,7 @@ namespace JAWWP
         {
 
         }
+       
 
     }
 }

@@ -5,8 +5,10 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -15,6 +17,12 @@ namespace JAWWP
 {
     public partial class MainForm : Form
     {
+        /// <summary>
+        /// Chromium browser
+        /// </summary>
+        CefSharp.WinForms.ChromiumWebBrowser cBrowser;
+
+        CefSettings settings;
         /// <summary>
         /// Ctor Main Window
         /// 
@@ -32,16 +40,14 @@ namespace JAWWP
         /// <param name="e"></param>
         private void OnLoad(object sender, EventArgs e)
         {
-            InitializeComponent();
-           
-            CefSettings settings = new CefSettings();
+
+            settings = new CefSettings();
             settings.CachePath = "./Cookies";
             settings.PersistSessionCookies = true;
 
             Cef.Initialize(settings);
 
-
-            CefSharp.WinForms.ChromiumWebBrowser cBrowser = new CefSharp.WinForms.ChromiumWebBrowser("https://web.whatsapp.com")
+            cBrowser = new CefSharp.WinForms.ChromiumWebBrowser("https://web.whatsapp.com")
             {
                 Dock = DockStyle.Fill,
                 ContextMenu = new ContextMenu(),
@@ -49,14 +55,9 @@ namespace JAWWP
                 MenuHandler =  new CustomMenuHandler(),
             };
 
-
             this.Controls.Add(cBrowser);
-
+           
         }
-
-
-
-
 
     }
 }
