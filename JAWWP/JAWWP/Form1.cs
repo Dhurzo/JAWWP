@@ -45,6 +45,8 @@ namespace JAWWP
             settings.CachePath = "./Cookies";
             settings.PersistSessionCookies = true;
 
+            settings.Locale = InputLanguage.CurrentInputLanguage.ToString();
+
             Cef.Initialize(settings);
 
             cBrowser = new CefSharp.WinForms.ChromiumWebBrowser("https://web.whatsapp.com")
@@ -54,6 +56,8 @@ namespace JAWWP
                 ContextMenuStrip = new ContextMenuStrip(),
                 MenuHandler =  new CustomMenuHandler(),
             };
+
+            
 
             this.Controls.Add(cBrowser);
            
