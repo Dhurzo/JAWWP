@@ -1,0 +1,15 @@
+E:\JAWWP\JAWWPREPO\JAWWP\JAWWP\bin\x86\Release\JAWWP.exe.config
+E:\JAWWP\JAWWPREPO\JAWWP\JAWWP\bin\x86\Release\JAWWP.exe
+E:\JAWWP\JAWWPREPO\JAWWP\JAWWP\bin\x86\Release\JAWWP.pdb
+E:\JAWWP\JAWWPREPO\JAWWP\JAWWP\bin\x86\Release\CefSharp.Core.dll
+E:\JAWWP\JAWWPREPO\JAWWP\JAWWP\bin\x86\Release\CefSharp.dll
+E:\JAWWP\JAWWPREPO\JAWWP\JAWWP\bin\x86\Release\CefSharp.WinForms.dll
+E:\JAWWP\JAWWPREPO\JAWWP\JAWWP\bin\x86\Release\CefSharp.WinForms.xml
+E:\JAWWP\JAWWPREPO\JAWWP\JAWWP\bin\x86\Release\CefSharp.xml
+E:\JAWWP\JAWWPREPO\JAWWP\JAWWP\bin\x86\Release\CefSharp.Core.xml
+E:\JAWWP\JAWWPREPO\JAWWP\JAWWP\obj\x86\Release\JAWWP.csprojResolveAssemblyReference.cache
+E:\JAWWP\JAWWPREPO\JAWWP\JAWWP\obj\x86\Release\JAWWP.MainForm.resources
+E:\JAWWP\JAWWPREPO\JAWWP\JAWWP\obj\x86\Release\JAWWP.Properties.Resources.resources
+E:\JAWWP\JAWWPREPO\JAWWP\JAWWP\obj\x86\Release\JAWWP.csproj.GenerateResource.Cache
+E:\JAWWP\JAWWPREPO\JAWWP\JAWWP\obj\x86\Release\JAWWP.exe
+E:\JAWWP\JAWWPREPO\JAWWP\JAWWP\obj\x86\Release\JAWWP.pdb

@@ -1,0 +1,9 @@
+/media/juan/Tera/JAWWP/JAWWPREPO/JAWWP/JAWWP/obj/x64/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/juan/Tera/JAWWP/JAWWPREPO/JAWWP/JAWWP/obj/x64/Debug/JAWWP.MainForm.resources
+/media/juan/Tera/JAWWP/JAWWPREPO/JAWWP/JAWWP/obj/x64/Debug/JAWWP.Properties.Resources.resources
+/media/juan/Tera/JAWWP/JAWWPREPO/JAWWP/JAWWP/obj/x64/Debug/JAWWP.exe
+/media/juan/Tera/JAWWP/JAWWPREPO/JAWWP/JAWWP/bin/x64/Debug/CefSharp.WinForms.dll
+/media/juan/Tera/JAWWP/JAWWPREPO/JAWWP/JAWWP/bin/x64/Debug/CefSharp.dll
+/media/juan/Tera/JAWWP/JAWWPREPO/JAWWP/JAWWP/bin/x64/Debug/CefSharp.Core.dll
+/media/juan/Tera/JAWWP/JAWWPREPO/JAWWP/JAWWP/bin/x64/Debug/Geckofx-Core.dll
+/media/juan/Tera/JAWWP/JAWWPREPO/JAWWP/JAWWP/bin/x64/Debug/Geckofx-Winforms.dll

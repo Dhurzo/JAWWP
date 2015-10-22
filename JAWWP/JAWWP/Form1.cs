@@ -57,8 +57,6 @@ namespace JAWWP
                 MenuHandler =  new CustomMenuHandler(),
             };
 
-            
-
             this.Controls.Add(cBrowser);
            
         }
